@@ -179,6 +179,12 @@
 .sec2 .intro ul.ans {float: right; width: 45%; font-family: 'Cafe24Danjunghae'; font-size: 22px; line-height: 3.1em;}
 .sec2 .intro .line {width: 5px; height: 410px; background: #fff; position: absolute; float: left; left: 50%;}
 
+.sec2 .news {color: #19057A; height: 500px; margin: 50px 0; position: relative;}
+.sec2 .news ul {padding: 0 2%; overflow: hidden;}
+.sec2 .news ul.que {float: left; text-align: right; width: 45%; font-family: 'Playfair Display', serif; font-size: 38px; font-weight: 900; line-height: 1.8; position: relative;}
+.sec2 .news ul.ans {float: right; width: 45%; font-family: 'Cafe24Danjunghae'; font-size: 22px; line-height: 3.1em;}
+.sec2 .news .line {width: 5px; height: 410px; background: #fff; position: absolute; float: left; left: 50%;}
+
 .sec2 .skill {height: 400px;}
 .sec2 .skill h3 {color: #19057A; text-align: center; font-size: 38px; font-family: 'Playfair Display', serif; font-weight: 900;}
 .sec2 .skill .ability {float: left; width: 50%;}
