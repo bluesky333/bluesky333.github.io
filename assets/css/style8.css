@@ -55,6 +55,7 @@
 .mNav .menu .left li:first-child a {color: #FEE050;}
 .mNav .menu .left li a:hover {color: #05B9CA;}
 .mNav .menu .left li.mob {display: none;}
+.mNav .menu .left ul.mobile {display: none;}
 .mNav .menu .right {float: left; width: 50%; height: 100%; display: flex; align-items: left; justify-content: center; flex-direction: column;}
 .mNav .menu .right .top {padding-left: 30px;}
 .mNav .menu .right .top li {color: #fff; font-size: 26px; font-family: 'Cafe24Danjunghae';}
