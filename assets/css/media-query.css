@@ -84,7 +84,6 @@
     .mNav .menu .left li.mob {display: inline-block; padding-right: 30px;}
     .mNav .menu .left li.mob a:hover {color: #FEE050;}
     .mNav .menu .right {display: none;}
-    .mNav .menu .left ul.mobile {display: block;}
     .sec1 .title {display: none;}
     .sec1 .title-mob {display: block; font-size: 150px; font-weight: 900; line-height: 1.2em; font-family: 'Righteous', cursive; position: relative; z-index: 1000; animation: title-slide 2s ease-in-out; z-index: 500;}
     .sec1 .title-mob .rainbow {-webkit-animation: rainbow 1.5s ease-in-out infinite; animation: rainbow 1.5s ease-in-out infinite; -webkit-animation: rainbow 1.5s ease-in-out infinite; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 10px 10px 0 rgba(0,0,0,0.2);}
