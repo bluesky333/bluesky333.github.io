@@ -227,7 +227,7 @@
 }
 
 /* ---------------------- section3 : works ---------------------- */
-.sec3 .title {align-items: flex-end; position: relative; height: 340px;}
+.sec3 .title {align-items: flex-end; position: relative;}
 .sec3 .title h2 {flex: 0 0 50%; font-size: 80px; font-family: 'Playfair Display', serif; color: #fff; text-align: left; font-weight: 900;}
 .sec3 .title p {flex: 0 0 50%; font-size: 25px; font-family: 'S-CoreDream-2ExtraLight'; color: #fff;}
 .sec3 .title h4 {flex: 0 0 50%; font-size: 16px; font-family: 'S-CoreDream-2ExtraLight'; color: #fff;}
