@@ -242,11 +242,11 @@
 .sec3 .title .object .s-1 {top: -330px; left: -670px;}
 
 
-.sec3 .news {color: #19057A; height: 500px; margin: 50px 0; position: relative;}
-.sec3 .news ul {padding: 0 2%; overflow: hidden;}
-.sec3 .news ul.que {float: left; text-align: right; width: 45%; font-family: 'Playfair Display', serif; font-size: 38px; font-weight: 900; line-height: 1.8; position: relative;}
-.sec3 .news ul.ans {float: right; width: 45%; font-family: 'Cafe24Danjunghae'; font-size: 22px; line-height: 3.1em;}
-.sec3 .news .line {width: 5px; height: 410px; background: #fff; position: absolute; float: left; left: 50%;}
+.sec3 .title .news {color: #19057A; height: 500px; margin: 50px 0; position: relative;}
+.sec3 .title .news ul {padding: 0 2%; overflow: hidden;}
+.sec3 .title .news ul.que {float: left; text-align: right; width: 45%; font-family: 'Playfair Display', serif; font-size: 38px; font-weight: 900; line-height: 1.8; position: relative;}
+.sec3 .title .news ul.ans {float: right; width: 45%; font-family: 'Cafe24Danjunghae'; font-size: 22px; line-height: 3.1em;}
+.sec3 .title .news .line {width: 5px; height: 410px; background: #fff; position: absolute; float: left; left: 50%;}
 
 .sec3 .site-wrap {padding-top: 200px;}
 .sec3 .site {margin: 250px 0; height: auto;}
