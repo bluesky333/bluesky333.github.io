@@ -242,7 +242,7 @@
     .sec3 .site .view {width: 90%; margin-left: -20px;}
     .sec3 .site .view img {bottom: 12px;}
     .sec3 .site .btn {position: static; height: 100px; width: 100%;}
-    .sec3 .site .btn ul {display: flex; justify-content: center; flex-direction: row; bottom: 0; width: 100%;}
+    .sec3 .site .btn ul {display: ruby; bottom: 0; width: 100%;}
     .sec3 .site .btn li {flex: 0 0 45%; margin: 0;}
     .sec3 .site .btn li:hover {background: #FEE050;}
     .sec3 .site .btn li a {padding: 9px 10px;}
